@@ -1,0 +1,11 @@
+Cod Vend.Vendedor
+01.Gisele
+02.Luís
+03.Ronaldo
+04.Mariana
+05.Murilo
+06.Marcos
+07.Fernanda
+08.Francisco
+09.Estela
+10.Augusto
