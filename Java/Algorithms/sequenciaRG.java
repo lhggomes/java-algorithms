@@ -35,11 +35,15 @@ public class sequenciaRG {
         if (index == terms - 1) {
             return -1;
         }
-
+        //This will make the subtraction of the data, like the sequencial procedure
+        
         int result = sequence[index] - sequence[index + 1];
+        
+        //We're working with the data in modules, so we have to transform this
         if (result < 0) {
             result = result * -1;
         }
+        //Making the next subtraction, using recursive procedure
         int next = checkSequenceRG(sequence, terms, index + 1);
 
         if (next == -1) {
