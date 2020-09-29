@@ -1,0 +1,25 @@
+[InstallLanguage]
+LangID=ENU
+
+[Strings]
+AppID=Tracer
+AdminRights=
+
+[CreateDirs]
+C:\Program Files (x86)\Statement Tracer for Oracle=
+
+[Main.CopyFiles]
+C:\Program Files (x86)\Statement Tracer for Oracle\OraTracer.exe=
+C:\Program Files (x86)\Statement Tracer for Oracle\OraTracerLib.dll=
+C:\Program Files (x86)\Statement Tracer for Oracle\OraTracer.chm=
+C:\Program Files (x86)\Statement Tracer for Oracle\license.txt=
+
+[Main.CreateDirs]
+C:\Users\fabio.figueiredo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Statement Tracer for Oracle=
+
+[Main.Shortcuts]
+C:\Users\fabio.figueiredo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Statement Tracer for Oracle\Statement Tracer for Oracle.lnk=
+C:\Users\fabio.figueiredo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Statement Tracer for Oracle\License.lnk=
+C:\Users\fabio.figueiredo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Statement Tracer for Oracle\Web site.lnk=
+C:\Users\fabio.figueiredo\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Statement Tracer for Oracle\Uninstall Statement Tracer for Oracle.lnk=
+
