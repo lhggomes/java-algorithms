@@ -34,7 +34,7 @@ Versioning
 
 We use `Git<http:www.github.com/lhhgomes>`__ for versioning. For the
 versions available, see the `tags on this
-repository <https://github.com/lhggomes/field-hospital.git>`__.
+repository <https://github.com/lhggomes/java-algorithms.git>`__.
 
 Authors
 -------
